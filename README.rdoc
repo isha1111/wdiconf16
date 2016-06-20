@@ -1,28 +1,34 @@
-== README
+## WDI Conf Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, and welcome to the repo for http://wdiconf2016.herokuapp.com
+The WDI Conference is a hypothetical conference that GA web development (WDI6) immersive students were tasked with building the website for. The idea behind our 'conference', is to use a crowdfunding technique encouraging sponsors to contribute, and therefore reduce the price of the tickets for attendees of the conference. It also has the added bonus of automating the sponsorship process, so the conference organizers can get on with planning an epic event. To see more information, check out the website.
 
-Things you may want to cover:
+## Tech used
 
-* Ruby version
+* Ruby on rails
+* Sass
+* Javascript & jQuery
+* Image magick
+* Stripe (payment gateway)
+* Proressbarjs (chart animation library)
+* Postgres (database)
 
-* System dependencies
+## Forking & set up
 
-* Configuration
+If you would like to clone / fork our repo, here are the installation steps:
 
-* Database creation
+1. Clone or fork
+2. Make sure you have Ruby, Ruby on Rails & Postgres installed
+3. Run `rake db:create`
+4. Run `rake db:migrate`
+5. Run `rake db:seed`
+6. Run `bundle` to install the app's dependencies
+7. Start your rails server with `rails s` and check out on port 3000 :boom:
 
-* Database initialization
+## Made with girl power by The Splice Girls
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* https://github.com/christiearcus
+* https://github.com/natyv
+* https://github.com/nakarielle
+* https://github.com/isha1111
+* https://github.com/LJKenward
