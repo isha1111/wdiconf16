@@ -1,4 +1,4 @@
-## WDI Conf Website
+﻿## WDI Conf Website
 
 Hello, and welcome to the repo for http://wdiconf2016.herokuapp.com
 The WDI Conference is a hypothetical conference that GA web development (WDI6) immersive students were tasked with building the website for. The idea behind our 'conference', is to use a crowdfunding technique encouraging sponsors to contribute, and therefore reduce the price of the tickets for attendees of the conference. It also has the added bonus of automating the sponsorship process, so the conference organizers can get on with planning an epic event. To see more information, check out the website.
@@ -31,4 +31,6 @@ If you would like to clone / fork our repo, here are the installation steps:
 * https://github.com/natyv
 * https://github.com/nakarielle
 * https://github.com/isha1111
-* https://github.com/LJKenward
+* https://github.com/LJKenward 
+
+
